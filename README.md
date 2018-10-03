@@ -1,6 +1,6 @@
-##My website, hopefully made with material.io!
+#My website, hopefully made with ~material.io~ BULMA!!
 
-#enjoyy
+###enjoyy
 
 You probably can't read this thing thoo, as it is set to private
 **IF** you can, please don't waste your time reading this
